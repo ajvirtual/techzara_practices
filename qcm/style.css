@@ -1,0 +1,29 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+.container {
+    display: flex;
+    flex-flow: nowrap row;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 60px;
+    width: 700px;
+    height: 500px;
+}
+.subcontainer { 
+    height: 100px;
+    width: 200px;
+}
+.subcontainer1 {
+    background: red;
+}
+.subcontainer2 {
+    background: rgb(170, 252, 19);
+}
+.subcontainer3 {
+    background: rgb(255, 0, 212);
+}   
